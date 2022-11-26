@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { ethers, BigNumber } from 'ethers';
 import consensusNFT from './ConsensusNFT.json';
 
-const consensusNFTAddress = "https://goerli.etherscan.io/address/0xcfEd46022d6A0F78fa78B071feeC2ebAC7470d24";
+const consensusNFTAddress = "0xcfEd46022d6A0F78fa78B071feeC2ebAC7470d24";
 
 const MainMint = ({ accounts, setAccounts }) => {
     const [mintAmount, setMintAmount] = useState(1);
