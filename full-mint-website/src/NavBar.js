@@ -5,7 +5,7 @@ const NavBar = ({ accounts, setAccounts }) => {
 
     async function connectAccount() {
         if (window.ethereum) {
-            const accounts = await window.ethereum.requests({
+            const accounts = await window.ethereum.request({
                 method: "eth_requestAccounts",
             });
             setAccounts(accounts);
