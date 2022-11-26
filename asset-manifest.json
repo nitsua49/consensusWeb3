@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consensusWeb3/static/css/main.073c9b0a.css",
+    "main.js": "/consensusWeb3/static/js/main.8eca275a.js",
+    "index.html": "/consensusWeb3/index.html",
+    "main.073c9b0a.css.map": "/consensusWeb3/static/css/main.073c9b0a.css.map",
+    "main.8eca275a.js.map": "/consensusWeb3/static/js/main.8eca275a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8eca275a.js"
+  ]
+}
