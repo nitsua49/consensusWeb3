@@ -50,3 +50,9 @@ a {
 .topnav-right a {
   font-weight: bold;
 }
+
+.connectBtn {
+  background-color: #ffe900;
+  font-weight: bold;
+  margin: auto;
+}
