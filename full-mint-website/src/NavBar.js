@@ -1,5 +1,5 @@
 import React from 'react';
-
+import navLogoImg from "./assets/Consensus_Logo_Final-WHITE.png.webp";
 const NavBar = ({ accounts, setAccounts }) => {
     const isConnected = Boolean(accounts[0]);
 
@@ -16,7 +16,7 @@ const NavBar = ({ accounts, setAccounts }) => {
         <div>
             {/* Right Side - Sections */}
             <div class="topnav">
-                <a class="active" href="#"><img src="./assests/Consensus_Logo_Final-WHITE.png.webp" class="logoImg" alt="CONSENSUS"/></a>
+                <a class="active" href="#"><img src={navLogoImg} class="logoImg" alt="CONSENSUS"/></a>
                 <div class="topnav-right">
                 <a href="App.js">Membership</a>
                 <a href="#">Team</a>
