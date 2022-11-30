@@ -58,4 +58,9 @@ a {
 
 .divButton {
   margin: auto;
+  margin-left: 50%;
+}
+
+.connectBtn:hover { 
+  background-color: rgb(97, 97, 14);
 }
