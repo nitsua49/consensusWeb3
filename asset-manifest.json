@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/consensusWeb3/static/css/main.dfa17933.css",
+    "main.css": "/consensusWeb3/static/css/main.854760b2.css",
     "main.js": "/consensusWeb3/static/js/main.ae045d19.js",
     "index.html": "/consensusWeb3/index.html",
-    "main.dfa17933.css.map": "/consensusWeb3/static/css/main.dfa17933.css.map",
+    "main.854760b2.css.map": "/consensusWeb3/static/css/main.854760b2.css.map",
     "main.ae045d19.js.map": "/consensusWeb3/static/js/main.ae045d19.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfa17933.css",
+    "static/css/main.854760b2.css",
     "static/js/main.ae045d19.js"
   ]
 }
