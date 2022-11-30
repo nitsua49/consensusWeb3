@@ -54,6 +54,8 @@ a {
 .connectBtn {
   background-color: #ffe900;
   font-weight: bold;
+  padding: 8px;
+  font-size: 18px;
 }
 
 .divButton {
@@ -63,4 +65,10 @@ a {
 
 .connectBtn:hover { 
   background-color: rgb(97, 97, 14);
+}
+
+.mintBody {
+  background-color: #ffe900;
+  opacity: 0.3;
+  text-align: center;
 }
