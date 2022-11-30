@@ -7,4 +7,44 @@
 
 .App {
   /*insert css styling code here*/
+  body {
+    background-color: #0b2d8c;
+  }
+
+  .logoImg {
+    width: 40%;
+  }
+  a {
+    font-size: 170% !important;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #0b2d8c;
+  }
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: sans-serif;
+  }
+
+  .topnav a:hover {
+
+  }
+
+  .topnav a.active {
+
+  }
+
+  .topnav-right {
+    float: right;
+  }
+
+  .topnav-right a {
+    font-weight: bold;
+  }
 }
