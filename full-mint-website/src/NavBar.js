@@ -14,17 +14,12 @@ const NavBar = ({ accounts, setAccounts }) => {
 
     return (
         <div>
-            {/* Left Side - Socials */}
-            <div>Facebook</div>
-            <div>Twitter</div>
-            <div>Email</div>
-
             {/* Right Side - Sections */}
             <div class="topnav">
-                <a class="active" href="#home"><img src="assests/Consensus_Logo_Final-WHITE.png.webp" class="logoImg" alt="CONSENSUS"/></a>
+                <a class="active" href="#"><img src="./assests/Consensus_Logo_Final-WHITE.png.webp" class="logoImg" alt="CONSENSUS"/></a>
                 <div class="topnav-right">
                 <a href="App.js">Membership</a>
-                <a href="#about">Team</a>
+                <a href="#">Team</a>
                 </div>
             </div>
 
