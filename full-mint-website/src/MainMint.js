@@ -39,7 +39,7 @@ const MainMint = ({ accounts, setAccounts }) => {
     };
 
     return(
-        <div class="container mintBody">
+        <div class="container pt-3 mintBody">
             <h1>Consensus Digital Media</h1>
             <h4>Be part of our exclusive Web 3 membership and get access to our exclusive stories and other membership benefits in the future. Mint your membership NFT today!</h4>
             {isConnected ? (
