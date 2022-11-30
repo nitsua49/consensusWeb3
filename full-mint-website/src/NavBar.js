@@ -20,9 +20,13 @@ const NavBar = ({ accounts, setAccounts }) => {
             <div>Email</div>
 
             {/* Right Side - Sections */}
-            <div>About</div>
-            <div>Mint</div>
-            <div>Team</div>
+            <div class="topnav">
+                <a class="active" href="#home"><img src="Consensus_Logo_Final-WHITE.png.webp" class="logoImg" alt="CONSENSUS"/></a>
+                <div class="topnav-right">
+                <a href="App.js">Membership</a>
+                <a href="#about">Team</a>
+                </div>
+            </div>
 
             {/* Connect */}
             {isConnected ? (
