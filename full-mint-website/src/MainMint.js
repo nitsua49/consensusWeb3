@@ -41,7 +41,7 @@ const MainMint = ({ accounts, setAccounts }) => {
     return(
         <div class="container mintBody">
             <h1>Consensus Digital Media</h1>
-            <p>Be part of our exclusive Web 3 membership and get access to our exclusive stories and other membership benefits in the future. Mint your membership NFT today!</p>
+            <h4>Be part of our exclusive Web 3 membership and get access to our exclusive stories and other membership benefits in the future. Mint your membership NFT today!</h4>
             {isConnected ? (
                 <div>
                     <div>
