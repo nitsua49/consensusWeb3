@@ -54,5 +54,8 @@ a {
 .connectBtn {
   background-color: #ffe900;
   font-weight: bold;
+}
+
+.divButton {
   margin: auto;
 }

@@ -27,7 +27,9 @@ const NavBar = ({ accounts, setAccounts }) => {
             {isConnected ? (
                 <p>Connected</p>
             ) : (
+                <div class="divButton">
                 <button class="btn btn-primary btn-lg connectBtn" onClick={connectAccount}>Connect</button>
+                </div>
             )}
         </div>
     );
