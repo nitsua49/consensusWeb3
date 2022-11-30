@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/consensusWeb3/static/css/main.6740aa5e.css",
+    "main.css": "/consensusWeb3/static/css/main.d3ce3052.css",
     "main.js": "/consensusWeb3/static/js/main.25ff02f1.js",
     "static/media/Consensus_Logo_Final-WHITE.png.webp": "/consensusWeb3/static/media/Consensus_Logo_Final-WHITE.png.38d32383097bffd8361c.webp",
     "index.html": "/consensusWeb3/index.html",
-    "main.6740aa5e.css.map": "/consensusWeb3/static/css/main.6740aa5e.css.map",
+    "main.d3ce3052.css.map": "/consensusWeb3/static/css/main.d3ce3052.css.map",
     "main.25ff02f1.js.map": "/consensusWeb3/static/js/main.25ff02f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.6740aa5e.css",
+    "static/css/main.d3ce3052.css",
     "static/js/main.25ff02f1.js"
   ]
 }
