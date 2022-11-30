@@ -73,6 +73,7 @@ a {
 }
 
 .mintBodyC {
-  padding: 7px;
-
+  background-color: #ffe900;
+  text-align: center;
+  padding: 5px;
 }
